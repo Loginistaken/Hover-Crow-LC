@@ -184,7 +184,7 @@ Unlike competitors, we preserve **a rear-mounted, micro kerosene jet**.
 
 * ✅ **Real-world roads supported** — No rails. No mag tracks.
 * ✅ **Unique kerosene turbo boost** — unlike all-electric copies
-* ✅ **Fighter cockpit feel** — For adrenaline-based commuting
+* ✅ **Pilot feel** — For adrenaline-based commuting
 * ✅ **Regenerative braking** — Charge battery from descent
 * ✅ **Cryogenic-grade magnetics** — No overheat, no flex, max power
 * ✅ **Made of real materials** — Not a toy, not a drone, not theory
