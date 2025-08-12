@@ -1,12 +1,11 @@
-# 🚀 HOVERCROW LASERCRUISE
-
+# 🚀 HOVERCROW LC
 ## “The Future of Solo Flight, Engineered for the Ground You Already Drive”
 
 ---
 
 ### 🛸 VEHICLE OVERVIEW
 
-**HOVERCROW LASERCRUISE** is a precision-engineered, one-seat hover vehicle that
+**HOVERCROW LC** is a precision-engineered, one-seat hover vehicle that
 brings together the laws of electromagnetism, aerodynamics, AI control systems, 
 and advanced propulsion. This isn’t conceptual art—it’s a functioning 
 schematic of what’s next in the world of transportation.
@@ -193,7 +192,7 @@ Unlike competitors, we preserve **a rear-mounted, micro kerosene jet**.
 
 ## 📢 PROMOTIONAL SUMMARY
 
-> “**HOVERCROW LASERCRUISE** isn’t just a new vehicle. It’s a new category.
+> “**HOVERCROW LC** isn’t just a new vehicle. It’s a new category.
 >
 > One seat. All eyes on you. 320 mph at full tilt. Maglev lift, real thrust,
 > and voice-controlled, helmet-mounted HUD control.
