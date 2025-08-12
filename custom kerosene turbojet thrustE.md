@@ -1,6 +1,6 @@
-# Hover-Crow-Laser_Cruise
+# Hover-Crow-LC
 
-🚀 HOVERCROW LASERCRUISE (Final Engineered Redesign)
+🚀 HOVERCROW LC (Final Engineered Redesign)
 
 One-seat AI-controlled hovercraft with superconducting maglift, aerodynamic braking,
 
