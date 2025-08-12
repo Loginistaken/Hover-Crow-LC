@@ -1,4 +1,4 @@
-HoverCrow LaserCruise V3.0 — Integrated Hybrid Hovercraft/Helicopter
+HoverCrow LC V3.0 — Integrated Hybrid Hovercraft/Helicopter
 
 Version 3 is the ultimate, multi-mode upgrade—combining everything from your original HoverCrow design with two major new systems:
 
@@ -105,7 +105,7 @@ Winner:
 
 🏆 Final Vehicle Summary
 
-HoverCrow LaserCruise V3.0: The world’s first triple-mode hybrid hovercraft, capable of hovering, 
+HoverCrow LC V3.0: The world’s first triple-mode hybrid hovercraft, capable of hovering, 
 vertical ascension, turbojet-boosted sprints, and full aerial helicopter flight. Modular upgrades allow for new battery packs, 
 kerosene-powered jet engines, and stowable helicopter wings—delivering unmatched performance, versatility, and environmental efficiency.
 
